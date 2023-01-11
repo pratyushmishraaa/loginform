@@ -1,0 +1,53 @@
+
+h1{
+  margin: 0px 95px;
+  padding: 25px;
+}
+.form {
+   font-family: sans-serif;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+   
+   height: 100vh;
+   
+   background-color:#5177AF;
+   
+ }
+ 
+.btn{
+  margin-top: 50px;
+  margin-left: 200px;
+  padding: 18px 41px;
+  border-radius: 20px;
+}
+ .btn:hover{
+  background-color: rgb(218, 230, 119);
+ }
+ input[type="text"] {
+  margin: 18px 5px;
+  padding: 1px 10px;
+ }
+ label{
+  margin: 55px;
+ }
+ .ori{
+  margin: 0px 84px;
+ }
+ .des{
+  margin: 0px 65px;
+ }
+ #pic{
+  border-radius: 20px;
+ }
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
